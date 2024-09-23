@@ -1,0 +1,4 @@
+APD2F2402CS,TP000001,INT,Internship,Submitted,20/5/2024 0:00,12 day(s) 11 hour(s) 5 minute(s),7/6/2024 12:54,LC000001,LC000002,1,80,-
+APD2F2402CS,TP000002,INT,Internship,Submitted,30/5/2024 0:00,12 day(s) 9 hour(s) 46 minute(s),7/6/2024 14:13,LC000001,LC000002,0,-,-
+Individual,TP000003,IR,Investigation Report,Not Submitted,30/6/2024 1:00,-,-,LC000002,LC000001,0,-,-
+APU1F2309CGD,TP000004,RMCP,RMCP,Not Submitted,30/6/2024 0:30,-,-,LC000004,LC000002,0,-,-
